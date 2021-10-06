@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c7b6fed-6119-482c-8936-90032e5b441a" name="Default Changelist" comment="Merge remote-tracking branch 'gitlab/main'&#10;&#10;# Conflicts:&#10;#&#9;src/test/java/com/decathlon/test/SignInTest.java">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="3c7b6fed-6119-482c-8936-90032e5b441a" name="Default Changelist" comment="Merge remote-tracking branch 'gitlab/main'&#10;&#10;# Conflicts:&#10;#&#9;src/test/java/com/decathlon/test/SignInTest.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
